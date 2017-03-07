@@ -288,4 +288,4 @@ Spark.getRedis().sadd("MySet", 1);
 
 This would result in two values (the numbers 1 and 2) being stored in a set against the key of “MySet”.
 
-Redis is very powerful but can have a bit of a learning curve in comparison to other data stores. For a guide on what Redis is capable of and how to use it, the best source is probably the official Redis website at redis.io
+Redis is very powerful but can have a bit of a learning curve in comparison to other data stores. For a guide on what Redis is capable of and how to use it, the best source is probably the official Redis website at [redis.io](redis.io)
